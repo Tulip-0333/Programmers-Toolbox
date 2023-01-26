@@ -1,0 +1,58 @@
+body {
+  font-family: Ubuntu, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #35353d;
+  color: rgb(252, 252, 252);
+}
+
+a:link {
+  color:aqua;
+}
+
+a:visited {
+  color:magenta;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 1em;
+}
+
+header h1 {
+  margin: 0;
+}
+
+nav {
+  background-color: #ccc;
+  padding: 1em;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 1em;
+}
+
+nav a {
+  color: #333;
+  text-decoration: none;
+}
+
+main {
+  padding: 1em;
+}
+
+section {
+  margin-bottom: 1em;
+}
+
+hidden {
+  color:#35353d;
+}
